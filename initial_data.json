@@ -1,0 +1,104 @@
+[
+{
+  "model": "players.player",
+  "pk": 2,
+  "fields": {
+    "name": "Rakshith Bandi",
+    "village": "H.T.Halli",
+    "role": "All-Rounder",
+    "phone": "6303286099",
+    "team": "",
+    "bid_amount": 0,
+    "first_name": "Rakshith",
+    "last_name": "Bandi",
+    "email": null,
+    "city": null,
+    "state": null,
+    "jersey_number": null,
+    "primary_role": "All-Rounder",
+    "matches_played": 0,
+    "total_runs": 0,
+    "wickets_taken": 0,
+    "highest_score": "0",
+    "best_bowling": "0/0",
+    "bio": null,
+    "created_at": "2026-10-24T06:52:42.481Z",
+    "updated_at": "2026-10-24T09:37:26.406Z"
+  }
+},
+{
+  "model": "players.player",
+  "pk": 3,
+  "fields": {
+    "name": "viswa",
+    "village": "H.T.Halli",
+    "role": "Batsman",
+    "phone": "8888888888",
+    "team": "Vegetable Titans",
+    "bid_amount": 10000,
+    "first_name": "viswa",
+    "last_name": "",
+    "email": null,
+    "city": null,
+    "state": null,
+    "jersey_number": null,
+    "primary_role": "Batsman",
+    "matches_played": 0,
+    "total_runs": 0,
+    "wickets_taken": 0,
+    "highest_score": "0",
+    "best_bowling": "0/0",
+    "bio": null,
+    "created_at": "2026-10-24T09:43:19.642Z",
+    "updated_at": "2026-10-24T10:59:05.220Z"
+  }
+},
+{
+  "model": "players.team",
+  "pk": 1,
+  "fields": {
+    "name": "Krishi Knight Riders",
+    "total_budget": 100000
+  }
+},
+{
+  "model": "players.team",
+  "pk": 2,
+  "fields": {
+    "name": "Vegetable Titans",
+    "total_budget": 100000
+  }
+},
+{
+  "model": "players.team",
+  "pk": 3,
+  "fields": {
+    "name": "Red Chilli Blasters",
+    "total_budget": 100000
+  }
+},
+{
+  "model": "players.team",
+  "pk": 4,
+  "fields": {
+    "name": "Silk Rising Heros",
+    "total_budget": 100000
+  }
+},
+{
+  "model": "players.team",
+  "pk": 5,
+  "fields": {
+    "name": "Mango Icons",
+    "total_budget": 100000
+  }
+},
+{
+  "model": "players.team",
+  "pk": 6,
+  "fields": {
+    "name": "Groundnuts Super Kings",
+    "total_budget": 100000
+  }
+}
+]
